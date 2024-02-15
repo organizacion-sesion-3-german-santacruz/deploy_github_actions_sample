@@ -1,3 +1,8 @@
+# URL del despliegue en AWS Beanstalk
+
+http://aplicaciongermansantacruz-env.eba-ga8fgym3.us-east-1.elasticbeanstalk.com/
+
+
 # Ejemplo de despliegue de aplicaciones con GitHub Actions
 Este repositorio está configurado para desplegarse en AWS ElasticBeanstalk y Azure Web Apps mediante GitHub Actions.
 
